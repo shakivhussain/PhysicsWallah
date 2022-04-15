@@ -1,6 +1,6 @@
 ![](./Assets/poster.jpg)
 
-# Physic Wallah 🎓
+# Physics Wallah 🎓
 
 'Physics Wallah', is India's Best online learning platform. The most affordable learning platform that cares about you.
 
