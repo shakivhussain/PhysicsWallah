@@ -2,7 +2,7 @@
 
 # Physic Wallah 🎓
 
-Physics Wallah”, is India's Best online learning platform. The most affordable learning platform that cares about you.
+'Physics Wallah', is India's Best online learning platform. The most affordable learning platform that cares about you.
 
 ## Built With 🛠
 
