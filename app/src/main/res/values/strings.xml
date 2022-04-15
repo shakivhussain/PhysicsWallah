@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">PhysicsWallah</string>
+    <string name="dot_text">\u2022</string>
+    <string name="view_more">View More</string>
+    <string name="robby_darling">Robby Darling</string>
+    <string name="iit_madras">IIT Madras</string>
+    <string name="chemistry">Chemistry</string>
+
+</resources>

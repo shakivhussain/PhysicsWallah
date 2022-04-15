@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?actionBarSize"
+    android:background="@drawable/toolbar_background"
+    android:elevation="@dimen/elevation_10"
+    android:minHeight="?actionBarSize"
+    android:padding="@dimen/spacing_zero">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/backButton"
+            android:layout_centerVertical="true"
+            android:background="?selectableItemBackground"
+            android:padding="@dimen/spacing_small"
+            android:paddingHorizontal="@dimen/spacing_normal"
+            android:src="@drawable/ic_back" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            style="@style/Text_Normal_12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/spacing_large_x"
+            android:layout_marginEnd="@dimen/spacing_large_x"
+            android:singleLine="true"
+            android:text="@string/robby_darling"
+            android:textAlignment="center" />
+
+    </RelativeLayout>
+
+
+</androidx.appcompat.widget.Toolbar>
