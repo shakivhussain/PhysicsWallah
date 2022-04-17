@@ -14,7 +14,7 @@
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
 ## Download 📥
-- Download latest APK from [Click Here](https://i.diawi.com/eokeB2)
+- Download latest APK from [Click Here](https://www.dl.dropboxusercontent.com/s/md8dbtyz8om7zxk/PhysicWallah.apk)
 
 ## Screenshots 📷 
 ![light_screenshot](Assets/poster.jpg)
